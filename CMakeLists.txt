@@ -18,5 +18,5 @@ add_executable(
 )
 
 target_link_libraries( respi 
-  ${OpenCV_LIBS} 
+  ${OpenCV_LIBS}
 )
